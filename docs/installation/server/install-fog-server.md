@@ -181,7 +181,7 @@ following information:
      Password: password
 
 Now your FOG Server is ready to use! Go ahead, login to the web UI and
-start using FOG (*todo: link to docs with first steps*) and have fun.
+start using FOG and have fun. See [[kb/how-tos/README|How To Guides]] for some getting started tasks.
 
 
 ## Fog installation settings
